@@ -1,7 +1,7 @@
 ﻿
 namespace zachet
 {
-    partial class Билет13
+    partial class Form1
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -31,15 +31,15 @@ namespace zachet
         {
             this.SuspendLayout();
             // 
-            // Билет13
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(782, 753);
-            this.Name = "Билет13";
+            this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Билет №13";
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseClick);
             this.ResumeLayout(false);
 

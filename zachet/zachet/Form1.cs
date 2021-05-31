@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace zachet
 {
-    public partial class Билет13 : Form
+    public partial class Form1 : Form
     {
 
-        public Билет13()
+        public Form1()
         {
             InitializeComponent();
         }

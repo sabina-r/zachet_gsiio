@@ -16,7 +16,7 @@ namespace zachet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Билет13());
+            Application.Run(new Form1());
         }
     }
 }

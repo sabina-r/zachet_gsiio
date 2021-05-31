@@ -8,3 +8,13 @@ C:\Users\rzaev\source\repos\lab_gsio\zachet\zachet\bin\Debug\zachet.pdb
 C:\Users\rzaev\source\repos\lab_gsio\zachet\zachet\obj\Debug\zachet.exe
 C:\Users\rzaev\source\repos\lab_gsio\zachet\zachet\obj\Debug\zachet.pdb
 C:\Users\rzaev\source\repos\lab_gsio\zachet\zachet\obj\Debug\zachet.Билет13.resources
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\obj\Debug\zachet.csprojAssemblyReference.cache
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\obj\Debug\zachet.Form1.resources
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\obj\Debug\zachet.Properties.Resources.resources
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\obj\Debug\zachet.csproj.GenerateResource.cache
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\obj\Debug\zachet.csproj.CoreCompileInputs.cache
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\obj\Debug\zachet.exe
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\obj\Debug\zachet.pdb
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\bin\Debug\zachet.exe.config
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\bin\Debug\zachet.exe
+C:\Users\rzaev\source\repos\gsiio\zachet\zachet\bin\Debug\zachet.pdb
